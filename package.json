@@ -1,0 +1,26 @@
+{
+  "name": "niggerbot",
+  "version": "1.0.0",
+  "description": "racism counter solution for the basement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "trickster",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "discord.js": "^11.6.4",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triickster/nbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/triickster/nbot/issues"
+  },
+  "homepage": "https://github.com/triickster/nbot#readme"
+}
