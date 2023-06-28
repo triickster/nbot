@@ -1,4 +1,4 @@
-# nbot
+# racism counter
 
 racism solution
 
